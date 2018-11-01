@@ -1,0 +1,1 @@
+echo tekst >> plik.txt 
